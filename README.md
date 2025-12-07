@@ -1,6 +1,6 @@
 # github-top — топ GitHub и активность авторов в ClickHouse
 
-[![CI](https://github.com/mellettan/ecomet_tasks/actions/workflows/ci.yml/badge.svg)](https://github.com/mellettan/ecomet_tasks/actions/workflows/ci.yml)
+[![CI](https://github.com/mellettan/github-top/actions/workflows/ci.yml/badge.svg)](https://github.com/mellettan/github-top/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)
 ![asyncio](https://img.shields.io/badge/asyncio-aiohttp-2C5BB4)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-25.8-FFCC01?logo=clickhouse&logoColor=black)
